@@ -1,4 +1,2 @@
-another-config7
-===============
-
-seventh stuff
+echo 'running'
+echo $SHELL
